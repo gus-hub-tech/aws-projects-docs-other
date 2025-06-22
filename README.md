@@ -5,7 +5,6 @@ This repository is a collection of various other projects documented and build w
 ---
 ## index
 
-- AI ML Documentation
 - Application Migration with AWS
 - Automating Incident Response
 - AWS Client VPN Simple AD
